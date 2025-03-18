@@ -1,6 +1,12 @@
 <?php
 namespace frombenj\App;
-class FakeCoordonates
+class FakeCoordinate
 {
+    private ?array $coordinates;
 
+
+    function getCoordinates(): ?array
+    {
+        return [1, 2];
+    }
 }
