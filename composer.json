@@ -13,5 +13,7 @@
             "email": "contact@geofaker.com"
         }
     ],
-    "require": {}
+    "require": {
+        "frombenj/geo-faker": "v0.0.1"
+    }
 }
