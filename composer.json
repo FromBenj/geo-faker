@@ -1,0 +1,12 @@
+{
+    "name": "frombenj/geo-faker",
+    "description": "Get fake geographic coordinates according to your needs",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "FromBenj",
+            "email": "contact@geofaker.com"
+        }
+    ],
+    "require": {}
+}
